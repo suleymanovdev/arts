@@ -1,0 +1,8 @@
+﻿.swagger-ui .topbar svg {
+    display: none;
+}
+
+.swagger-ui .topbar:before {
+    content: url('/SwaggerSettings/logo.png');
+    display: inline-block;
+}

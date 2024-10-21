@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "automatic-road-ticket-system.WebApi", "automatic-road-ticket-system.WebApi\automatic-road-ticket-system.WebApi.csproj", "{4F5CCB3B-0F63-4054-83F9-EF0E27D2EEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automatic-road-ticket-system.Core", "automatic-road-ticket-system.Core\automatic-road-ticket-system.Core.csproj", "{8AA0B78E-AB5C-4380-8B11-E2995F44F26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automatic-road-ticket-system.Infrastructure", "automatic-road-ticket-system.Infrastructure\automatic-road-ticket-system.Infrastructure.csproj", "{838EAF02-4F94-4B6B-BCBA-E9C52EDA490F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5CCB3B-0F63-4054-83F9-EF0E27D2EEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5CCB3B-0F63-4054-83F9-EF0E27D2EEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5CCB3B-0F63-4054-83F9-EF0E27D2EEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5CCB3B-0F63-4054-83F9-EF0E27D2EEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA0B78E-AB5C-4380-8B11-E2995F44F26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA0B78E-AB5C-4380-8B11-E2995F44F26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA0B78E-AB5C-4380-8B11-E2995F44F26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA0B78E-AB5C-4380-8B11-E2995F44F26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838EAF02-4F94-4B6B-BCBA-E9C52EDA490F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838EAF02-4F94-4B6B-BCBA-E9C52EDA490F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838EAF02-4F94-4B6B-BCBA-E9C52EDA490F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838EAF02-4F94-4B6B-BCBA-E9C52EDA490F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9975DEAC-40C6-40D9-98C2-43F6F4141247}
+	EndGlobalSection
+EndGlobal
